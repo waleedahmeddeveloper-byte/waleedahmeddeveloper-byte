@@ -16,7 +16,7 @@ I help businesses grow online with **SEO, web development and AI**, and I share 
 - [What 3 months of Search Console data taught me about a calculator website](https://hafizwaleedahmed5.hashnode.dev/what-3-months-of-search-console-data-taught-me-about-a-calculator-website)
 
 ### 🌐 Find me
-[LinkedIn](https://www.linkedin.com/in/hafiz-waleed-ahmed-277033202/) · [X](https://x.com/HafizWaleedDev) · [Dev.to](https://dev.to/hafizwaleedahmed5) · [Hashnode](https://hafizwaleedahmed5.hashnode.dev) · [Facebook](https://www.facebook.com/profile.php?id=61596179334076) · [Threads](https://www.threads.com/@hafizwaleedahmed5)
+[LinkedIn](https://www.linkedin.com/in/hafizwaleedahmed5/) · [X](https://x.com/HafizWaleedDev) · [Dev.to](https://dev.to/hafizwaleedahmed5) · [Hashnode](https://hafizwaleedahmed5.hashnode.dev) · [Facebook](https://www.facebook.com/profile.php?id=61596179334076) · [Threads](https://www.threads.com/@hafizwaleedahmed5)
 
 📍 Sharaqpur Sharif, Punjab, Pakistan · 🗣 Urdu, Punjabi, English, Hindi
 📩 hafizwaleedahmed5@gmail.com
