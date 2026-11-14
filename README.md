@@ -11,6 +11,7 @@ I help businesses grow online with **SEO, web development and AI**, and I share 
 - 📣 **Digital marketing:** social media, content and online business
 
 ### ✍️ Latest writing
+- [Google's November 2026 core update: 6 calm steps before you change anything](https://hafizwaleedahmed5.hashnode.dev/google-s-november-2026-core-update-6-calm-steps-before-you-change-anything)
 - [SEO case study: 640 clicks and 40.5K impressions from a calculator website](https://dev.to/hafizwaleedahmed5/seo-case-study-640-clicks-and-405k-impressions-from-a-calculator-website-real-search-console-2p6i)
 - [What 3 months of Search Console data taught me about a calculator website](https://hafizwaleedahmed5.hashnode.dev/what-3-months-of-search-console-data-taught-me-about-a-calculator-website)
 
