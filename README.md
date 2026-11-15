@@ -11,9 +11,9 @@ I help businesses grow online with **SEO, web development and AI**, and I share 
 - 📣 **Digital marketing:** social media, content and online business
 
 ### ✍️ Latest writing
+- [Moving to a CDN Without Blocking Googlebot: 7 Steps from Google's New Guidance](https://hafizwaleedahmed5.hashnode.dev/moving-to-a-cdn-without-blocking-googlebot-7-steps-from-google-s-new-guidance)
 - [Google's November 2026 core update: 6 calm steps before you change anything](https://hafizwaleedahmed5.hashnode.dev/google-s-november-2026-core-update-6-calm-steps-before-you-change-anything)
 - [SEO case study: 640 clicks and 40.5K impressions from a calculator website](https://dev.to/hafizwaleedahmed5/seo-case-study-640-clicks-and-405k-impressions-from-a-calculator-website-real-search-console-2p6i)
-- [What 3 months of Search Console data taught me about a calculator website](https://hafizwaleedahmed5.hashnode.dev/what-3-months-of-search-console-data-taught-me-about-a-calculator-website)
 
 ### 🌐 Find me
 [LinkedIn](https://www.linkedin.com/in/hafizwaleedahmed5/) · [X](https://x.com/HafizWaleedDev) · [Dev.to](https://dev.to/hafizwaleedahmed5) · [Hashnode](https://hafizwaleedahmed5.hashnode.dev) · [Facebook](https://www.facebook.com/profile.php?id=61596179334076) · [Threads](https://www.threads.com/@hafizwaleedahmed5)
